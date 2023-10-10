@@ -1,7 +1,5 @@
 <!DOCTYPE>
 <html>
-<style>
-"text-align:center;"
-</style>
-<head>XII SIJA 2-ZAHWA LEANDRA &#128540</head>
+<body>
+style="text-align:center;">XII SIJA 2-ZAHWA LEANDRA &#128540</body>
 </html>
