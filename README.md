@@ -1,10 +1,7 @@
 <!DOCTYPE html>
 <html>
-<style
-* {text-align:center};
-</style>
-<head>XII SIJA 2 </head>
-<body><p style="font-size:100px">&#128540;</p>
-<p> &#128540;</p>
-<p> &#x1F61C;</p>
+<head>"XII SIJA 2"</head>
+<body>
+<p>style={text-align:center};
+<p>style={font-size:100px; >&#128540};</p>
 </body>
