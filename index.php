@@ -7,5 +7,5 @@
     text-align:center;
 </style>
 <body>
-style="text-align:center;">ZAHWA LEANDRA &#128540</body>
+style="text-align:center;">ZAHWA LEANDRA &#128540;</body>
 </html>
