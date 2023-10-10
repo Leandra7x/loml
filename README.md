@@ -1,7 +1,8 @@
 <!DOCTYPE html>
 <html>
-<style>
-* {text-align:center}
+<style
+* {text-align:center};
+</style>
 <head>XII SIJA 2 </head>
 <body><p style="font-size:100px">&#128540;</p>
 <p> &#128540;</p>
